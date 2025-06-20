@@ -18,7 +18,7 @@ public class SistemaInformatico {
     }
 
     public void monitorear() {
-        // Lógica para monitorear sistema informático
+        System.out.println("Analizando " + nombre);
         
     }
 }
