@@ -25,11 +25,11 @@ public class Vulnerabilidad {
     }
 
     public String evaluarRiesgo() {
-        // Lógica para evaluar riesgo
+        
         return "Nivel de Riesgo: " + nivelRiesgo;
     }
 
     public void asociarAmenaza(Amenaza amenaza) {
-        // Lógica para asociar con una amenaza
+        System.out.println("Asociando amenaza");
     }
 }

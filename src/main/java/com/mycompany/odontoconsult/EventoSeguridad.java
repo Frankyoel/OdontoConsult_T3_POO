@@ -69,19 +69,4 @@ public class EventoSeguridad {
         this.descripcion = descripcion;
     }
 
-    public String getImpacto() {
-        return impacto;
-    }
-
-    public void setImpacto(String impacto) {
-        this.impacto = impacto;
-    }
-
-    public String getRespuestaTomada() {
-        return respuestaTomada;
-    }
-
-    public void setRespuestaTomada(String respuestaTomada) {
-        this.respuestaTomada = respuestaTomada;
-    }
 }

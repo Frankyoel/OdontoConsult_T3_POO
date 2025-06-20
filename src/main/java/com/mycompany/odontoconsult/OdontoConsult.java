@@ -88,13 +88,13 @@ public class OdontoConsult {
                             new Date(),
                             "Acceso sospechoso al sistema",
                             "Alto",
-                            "Se realizó un análisis forense"
+                            "Se realizó un análisis"
                     );
                     evento.generarReporte();
                     break;
 
                 case 6:
-                    System.out.println("¡Gracias por usar el sistema odontológico!");
+                    System.out.println("¡Gracias por usar el sistema!");
                     return;
 
                 default:

@@ -19,5 +19,6 @@ public class SistemaInformatico {
 
     public void monitorear() {
         // Lógica para monitorear sistema informático
+        
     }
 }
