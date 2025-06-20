@@ -18,13 +18,14 @@ public class Empleados extends Usuario {
         this.especialidad = especialidad;
     }
 
-    public void agendarCita() {
-        // Lógica para agendar cita
+    public void agendarCita(Cita cita) {
+    System.out.println("Cita agendada para el " + cita);
     }
 
-    public void registrarPaciente() {
-        // Lógica para registrar paciente
+    public void registrarPaciente(Paciente paciente) {
+    System.out.println("Paciente registrado: " + paciente.getInfo());
     }
+
 
     public String getInfo() {
         return super.getInfo() + ", Puesto: " + puesto + ", Especialidad: " + especialidad;

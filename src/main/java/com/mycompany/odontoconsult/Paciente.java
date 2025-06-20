@@ -10,6 +10,7 @@ import java.util.Date;
  *
  * @author YOVERA-2
  */
+
 public class Paciente extends Usuario {
     private String numeroHistorial;
     private Date fechaRegistro;

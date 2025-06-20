@@ -1,0 +1,5 @@
+ID: EVT-2ff3f7a2-ec64-4330-92b9-155621642dc2
+Fecha: Thu Jun 19 22:28:14 GMT-05:00 2025
+Descripción: Acceso sospechoso al sistema
+Impacto: Alto
+Respuesta Tomada: Se realizó un análisis forense

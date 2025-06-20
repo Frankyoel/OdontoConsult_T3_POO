@@ -22,10 +22,35 @@ public class Cita {
     }
 
     public void confirmarCita() {
-        // Lógica para confirmar cita
+        System.out.println("La cita para el " + fecha + " a las " + hora + " ha sido confirmada.");
     }
 
     public void cancelarCita() {
-        // Lógica para cancelar cita
+        System.out.println("La cita para el " + fecha + " ha sido cancelada.");
     }
+
+    public Date getFecha() {
+        return fecha;
+    }
+
+    public void setFecha(Date fecha) {
+        this.fecha = fecha;
+    }
+
+    public String getHora() {
+        return hora;
+    }
+
+    public void setHora(String hora) {
+        this.hora = hora;
+    }
+
+    public String getMotivo() {
+        return motivo;
+    }
+
+    public void setMotivo(String motivo) {
+        this.motivo = motivo;
+    }
+
 }

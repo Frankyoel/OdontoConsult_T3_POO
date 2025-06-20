@@ -1,5 +1,5 @@
 ID: EVT-001
-Fecha: Thu Jun 19 20:27:14 GMT-05:00 2025
+Fecha: Thu Jun 19 21:54:41 GMT-05:00 2025
 Descripción: Acceso no autorizado al sistema
 Impacto: Alto
 Respuesta Tomada: Se bloqueó la cuenta del usuario
