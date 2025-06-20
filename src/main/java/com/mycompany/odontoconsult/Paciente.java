@@ -27,7 +27,7 @@ public class Paciente extends Usuario {
     }
 
     public void agendarCita() {
-        // Lógica para agendar cita
+        System.out.println(" Cita guardada ");
     }
 
     public String getInfo() {
